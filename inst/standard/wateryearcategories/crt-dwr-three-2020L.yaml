@@ -1,0 +1,10 @@
+name: CRT Dworshak 2020L (3 groups)
+description: 20/80% groupings for Dworshak April-July forecast using 2020L hydrology.
+project: DWR
+type: Observed
+interval: APR-JUL
+date: 30Apr 24:00
+cutoffs:
+  dry: 0
+  average: 1892.0
+  wet: 3342.2

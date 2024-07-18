@@ -1,0 +1,10 @@
+name: CRT Hungry Horse 2020L (3 groups)
+description: 20/80% groupings for Hungry Horse May-September forecast using 2020L hydrology.
+project: HGH
+type: Observed
+interval: MAY-SEP
+date: 30Apr 24:00
+cutoffs:
+  dry: 0
+  average: 1424.6
+  wet: 2382.2

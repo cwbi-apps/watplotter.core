@@ -1,0 +1,10 @@
+name: CRT Arrow Lakes 2020L (3 groups)
+description: 20/80% groupings for Arrow Lakes April-August forecast using 2020L hydrology.
+project: ARDB
+type: Observed
+interval: APR-AUG
+date: 30Apr 24:00
+cutoffs:
+  dry: 0
+  average: 20113.9
+  wet: 24913.0

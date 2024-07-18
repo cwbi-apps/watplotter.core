@@ -1,0 +1,10 @@
+name: CRT Brownlee 2020L (3 groups)
+description: 20/80% groupings for Brownlee April-July forecast using 2020L hydrology.
+project: BRN
+type: Observed
+interval: APR-JUL
+date: 30Apr 24:00
+cutoffs:
+  dry: 0
+  average: 3030.9
+  wet: 7714.6

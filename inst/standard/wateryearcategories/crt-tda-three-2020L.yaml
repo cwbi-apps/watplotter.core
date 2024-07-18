@@ -1,0 +1,10 @@
+name: CRT The Dalles 2020L (3 groups)
+description: 20/80% groupings for The Dalles April-August forecast using 2020L hydrology.
+project: TDA
+type: Observed
+interval: APR-AUG
+date: 30Apr 24:00
+cutoffs:
+  dry: 0
+  average: 74710.9
+  wet: 108201.0

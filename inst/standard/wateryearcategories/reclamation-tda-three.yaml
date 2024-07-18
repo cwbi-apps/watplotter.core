@@ -1,0 +1,10 @@
+name: Reclamation The Dalles (3 groups)
+description: Bureau of Reclamation 20/80% groupings for TDA April-August forecast.
+project: TDA
+type: External
+interval: APR-AUG
+date: 30Apr 24:00
+cutoffs:
+  dry: 0
+  average: 72700
+  wet: 100000

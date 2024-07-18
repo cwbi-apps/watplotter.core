@@ -1,0 +1,10 @@
+name: CRT Duncan 2020L (3 groups)
+description: 20/80% groupings for Duncan April-August forecast using 2020L hydrology.
+project: DCDB
+type: Observed
+interval: APR-AUG
+date: 30Apr 24:00
+cutoffs:
+  dry: 0
+  average: 1790.3
+  wet: 2275.2

@@ -1,0 +1,10 @@
+name: CRT Mica 2020L (3 groups)
+description: 20/80% groupings for Mica April-August forecast using 2020L hydrology.
+project: MCDB
+type: Observed
+interval: APR-AUG
+date: 30Apr 24:00
+cutoffs:
+  dry: 0
+  average: 10372.0
+  wet: 12438.8
